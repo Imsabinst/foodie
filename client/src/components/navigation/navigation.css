@@ -1,0 +1,13 @@
+.logo {
+  margin: 16px auto;
+  padding: 2px 16px;
+  height: 48px;
+  width: 48px;
+  border-radius: 48px;
+  background: rgba(255, 255, 255, 0.3);
+}
+.linechart {
+  color: white;
+  margin-top: 48px;
+  font-size: larger;
+}
